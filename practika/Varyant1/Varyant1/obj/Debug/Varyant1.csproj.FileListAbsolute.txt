@@ -1,0 +1,77 @@
+C:\Users\admin\Desktop\Varyant1\Varyant1\bin\Debug\Varyant1.exe.config
+C:\Users\admin\Desktop\Varyant1\Varyant1\bin\Debug\Varyant1.exe
+C:\Users\admin\Desktop\Varyant1\Varyant1\bin\Debug\Varyant1.pdb
+C:\Users\admin\Desktop\Varyant1\Varyant1\obj\Debug\Varyant1.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\Varyant1\Varyant1\obj\Debug\MainWindow.g.cs
+C:\Users\admin\Desktop\Varyant1\Varyant1\obj\Debug\App.g.cs
+C:\Users\admin\Desktop\Varyant1\Varyant1\obj\Debug\Varyant1_MarkupCompile.cache
+C:\Users\admin\Desktop\Varyant1\Varyant1\obj\Debug\Varyant1_MarkupCompile.lref
+C:\Users\admin\Desktop\Varyant1\Varyant1\obj\Debug\MainWindow.baml
+C:\Users\admin\Desktop\Varyant1\Varyant1\obj\Debug\Varyant1.g.resources
+C:\Users\admin\Desktop\Varyant1\Varyant1\obj\Debug\Varyant1.Properties.Resources.resources
+C:\Users\admin\Desktop\Varyant1\Varyant1\obj\Debug\Varyant1.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\Varyant1\Varyant1\obj\Debug\Varyant1.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Varyant1\Varyant1\obj\Debug\Varyant1.exe
+C:\Users\admin\Desktop\Varyant1\Varyant1\obj\Debug\Varyant1.pdb
+C:\Users\admin\Desktop\Varyant1\Varyant1\obj\Debug\Varyant1.exe.config
+C:\Users\admin\Desktop\Varyant1\Varyant1\obj\Debug\DirectorWindow.g.cs
+C:\Users\admin\Desktop\Varyant1\Varyant1\obj\Debug\ManagerWindow.g.cs
+C:\Users\admin\Desktop\Varyant1\Varyant1\obj\Debug\PerevozchikWindow.g.cs
+C:\Users\admin\Desktop\Varyant1\Varyant1\obj\Debug\PotrebitelWindow.g.cs
+C:\Users\admin\Desktop\Varyant1\Varyant1\obj\Debug\ProizvoditelWindow.g.cs
+C:\Users\admin\Desktop\Varyant1\Varyant1\obj\Debug\DirectorWindow.baml
+C:\Users\admin\Desktop\Varyant1\Varyant1\obj\Debug\ManagerWindow.baml
+C:\Users\admin\Desktop\Varyant1\Varyant1\obj\Debug\PerevozchikWindow.baml
+C:\Users\admin\Desktop\Varyant1\Varyant1\obj\Debug\PotrebitelWindow.baml
+C:\Users\admin\Desktop\Varyant1\Varyant1\obj\Debug\ProizvoditelWindow.baml
+C:\Users\admin\Desktop\Преддипломная практика\1 варик\Varyant1\Varyant1\bin\Debug\Varyant1.exe.config
+C:\Users\admin\Desktop\Преддипломная практика\1 варик\Varyant1\Varyant1\bin\Debug\Varyant1.exe
+C:\Users\admin\Desktop\Преддипломная практика\1 варик\Varyant1\Varyant1\bin\Debug\Varyant1.pdb
+C:\Users\admin\Desktop\Преддипломная практика\1 варик\Varyant1\Varyant1\obj\Debug\Varyant1.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\Преддипломная практика\1 варик\Varyant1\Varyant1\obj\Debug\Varyant1.exe.config
+C:\Users\admin\Desktop\Преддипломная практика\1 варик\Varyant1\Varyant1\obj\Debug\DirectorWindow.g.cs
+C:\Users\admin\Desktop\Преддипломная практика\1 варик\Varyant1\Varyant1\obj\Debug\MainWindow.g.cs
+C:\Users\admin\Desktop\Преддипломная практика\1 варик\Varyant1\Varyant1\obj\Debug\ManagerWindow.g.cs
+C:\Users\admin\Desktop\Преддипломная практика\1 варик\Varyant1\Varyant1\obj\Debug\PerevozchikWindow.g.cs
+C:\Users\admin\Desktop\Преддипломная практика\1 варик\Varyant1\Varyant1\obj\Debug\PotrebitelWindow.g.cs
+C:\Users\admin\Desktop\Преддипломная практика\1 варик\Varyant1\Varyant1\obj\Debug\ProizvoditelWindow.g.cs
+C:\Users\admin\Desktop\Преддипломная практика\1 варик\Varyant1\Varyant1\obj\Debug\App.g.cs
+C:\Users\admin\Desktop\Преддипломная практика\1 варик\Varyant1\Varyant1\obj\Debug\Varyant1_MarkupCompile.cache
+C:\Users\admin\Desktop\Преддипломная практика\1 варик\Varyant1\Varyant1\obj\Debug\Varyant1_MarkupCompile.lref
+C:\Users\admin\Desktop\Преддипломная практика\1 варик\Varyant1\Varyant1\obj\Debug\DirectorWindow.baml
+C:\Users\admin\Desktop\Преддипломная практика\1 варик\Varyant1\Varyant1\obj\Debug\MainWindow.baml
+C:\Users\admin\Desktop\Преддипломная практика\1 варик\Varyant1\Varyant1\obj\Debug\ManagerWindow.baml
+C:\Users\admin\Desktop\Преддипломная практика\1 варик\Varyant1\Varyant1\obj\Debug\PerevozchikWindow.baml
+C:\Users\admin\Desktop\Преддипломная практика\1 варик\Varyant1\Varyant1\obj\Debug\PotrebitelWindow.baml
+C:\Users\admin\Desktop\Преддипломная практика\1 варик\Varyant1\Varyant1\obj\Debug\ProizvoditelWindow.baml
+C:\Users\admin\Desktop\Преддипломная практика\1 варик\Varyant1\Varyant1\obj\Debug\Varyant1.g.resources
+C:\Users\admin\Desktop\Преддипломная практика\1 варик\Varyant1\Varyant1\obj\Debug\Varyant1.Properties.Resources.resources
+C:\Users\admin\Desktop\Преддипломная практика\1 варик\Varyant1\Varyant1\obj\Debug\Varyant1.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\Преддипломная практика\1 варик\Varyant1\Varyant1\obj\Debug\Varyant1.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Преддипломная практика\1 варик\Varyant1\Varyant1\obj\Debug\Varyant1.exe
+C:\Users\admin\Desktop\Преддипломная практика\1 варик\Varyant1\Varyant1\obj\Debug\Varyant1.pdb
+C:\Users\ssefy\Desktop\practika\Varyant1\Varyant1\bin\Debug\Varyant1.exe.config
+C:\Users\ssefy\Desktop\practika\Varyant1\Varyant1\bin\Debug\Varyant1.exe
+C:\Users\ssefy\Desktop\practika\Varyant1\Varyant1\bin\Debug\Varyant1.pdb
+C:\Users\ssefy\Desktop\practika\Varyant1\Varyant1\obj\Debug\Varyant1.csproj.AssemblyReference.cache
+C:\Users\ssefy\Desktop\practika\Varyant1\Varyant1\obj\Debug\DirectorWindow.g.cs
+C:\Users\ssefy\Desktop\practika\Varyant1\Varyant1\obj\Debug\MainWindow.g.cs
+C:\Users\ssefy\Desktop\practika\Varyant1\Varyant1\obj\Debug\ManagerWindow.g.cs
+C:\Users\ssefy\Desktop\practika\Varyant1\Varyant1\obj\Debug\PerevozchikWindow.g.cs
+C:\Users\ssefy\Desktop\practika\Varyant1\Varyant1\obj\Debug\PotrebitelWindow.g.cs
+C:\Users\ssefy\Desktop\practika\Varyant1\Varyant1\obj\Debug\ProizvoditelWindow.g.cs
+C:\Users\ssefy\Desktop\practika\Varyant1\Varyant1\obj\Debug\App.g.cs
+C:\Users\ssefy\Desktop\practika\Varyant1\Varyant1\obj\Debug\Varyant1_MarkupCompile.cache
+C:\Users\ssefy\Desktop\practika\Varyant1\Varyant1\obj\Debug\Varyant1_MarkupCompile.lref
+C:\Users\ssefy\Desktop\practika\Varyant1\Varyant1\obj\Debug\DirectorWindow.baml
+C:\Users\ssefy\Desktop\practika\Varyant1\Varyant1\obj\Debug\MainWindow.baml
+C:\Users\ssefy\Desktop\practika\Varyant1\Varyant1\obj\Debug\ManagerWindow.baml
+C:\Users\ssefy\Desktop\practika\Varyant1\Varyant1\obj\Debug\PerevozchikWindow.baml
+C:\Users\ssefy\Desktop\practika\Varyant1\Varyant1\obj\Debug\PotrebitelWindow.baml
+C:\Users\ssefy\Desktop\practika\Varyant1\Varyant1\obj\Debug\ProizvoditelWindow.baml
+C:\Users\ssefy\Desktop\practika\Varyant1\Varyant1\obj\Debug\Varyant1.g.resources
+C:\Users\ssefy\Desktop\practika\Varyant1\Varyant1\obj\Debug\Varyant1.Properties.Resources.resources
+C:\Users\ssefy\Desktop\practika\Varyant1\Varyant1\obj\Debug\Varyant1.csproj.GenerateResource.cache
+C:\Users\ssefy\Desktop\practika\Varyant1\Varyant1\obj\Debug\Varyant1.csproj.CoreCompileInputs.cache
+C:\Users\ssefy\Desktop\practika\Varyant1\Varyant1\obj\Debug\Varyant1.exe
+C:\Users\ssefy\Desktop\practika\Varyant1\Varyant1\obj\Debug\Varyant1.pdb
